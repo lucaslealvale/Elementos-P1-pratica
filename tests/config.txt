@@ -14,4 +14,4 @@
 #cronometro.vhd
 
 # NASM
-#SWeLED.nasm 1 1000
+SWeLED.nasm 1 1000
